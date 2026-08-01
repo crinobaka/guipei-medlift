@@ -44,9 +44,6 @@ v2.0.0 is a complete architectural rebuild — more powerful, more stable, and b
 
 ---
 
-## 👤 Who's It For
-
----
 
 ## 👤 Who's It For
 
